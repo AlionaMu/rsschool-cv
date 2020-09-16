@@ -1,17 +1,15 @@
-**## Aliona Muhatdinova**
+**##  Aliona Muhatdinova**
 
 
 ### Contact Info:
 
-Phone: +375 29 8740107
+* Phone: +375 29 8740107
 
-E-mail: alionazimaby@gmail.com
+* E-mail: alionazimaby@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/aliona-muhatdinova-3b529b1b7/)
+* [LinkedIn](https://www.linkedin.com/in/aliona-muhatdinova-3b529b1b7/)
 
-GitHub: [AlionaMu](https://www.github.com/AlionaMu)
-
-English: A2 (Elementary)
+* [GitHub](https://www.github.com/AlionaMu)
 
 
 ### Summary:
@@ -33,6 +31,7 @@ IDE : Visual Studio Code
 
 Other software : Lightroom |Photoshop
 
+English: A2 (Elementary)
 
 ### Education:
 
