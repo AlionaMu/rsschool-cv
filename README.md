@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://AlionaMu.github.io/rsschool-cv/cv
