@@ -1,26 +1,49 @@
-Aliona Muhatdinova
+**## Aliona Muhatdinova**
 
-Contact Info:
+
+### Contact Info:
+
 Phone: +375 29 8740107
-LinkedIn: https://www.linkedin.com/in/aliona-muhatdinova-3b529b1b7/
-GitHub: https://www.github.com/AlionaMu
+
+E-mail: alionazimaby@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/aliona-muhatdinova-3b529b1b7/)
+
+GitHub: [AlionaMu](https://www.github.com/AlionaMu)
+
 English: A2 (Elementary)
 
-Summary:
-Start programming in 2018. Novice frontend-developer. Confident knowledge of HTML, CSS, JavaScript. 
-I'm highly organized and self-motivated person. I always try to learn something new. I hope it will help me find an interesting job. 
 
-Skills:
+### Summary:
+
+Start programming in 2018. Novice frontend-developer. Confident knowledge of HTML, CSS, JavaScript. 
+
+I'm highly organized and self-motivated person. I always try to learn something new. 
+
+I hope it will help me find an interesting job. 
+
+
+### Skills:
+
 Languages : HTML | CSS | JavaScript | C
+
 VCS : Git
+
 IDE : Visual Studio Code
+
 Other software : Lightroom |Photoshop
 
-Education:
+
+### Education:
+
 Minsk State Linguistic University, German teacher
+
 Online Courses: Certificate "Javascript for beginners"(Stepik.com)
 
-Примеры кода:
+
+### Code examples:
+
+```
 class Shark extends Animal {
     constructor(name, age, status) {
       super(name, age, status);
@@ -52,5 +75,5 @@ class Cat extends Animal {
       return `Hello ${this.master}`;
 }
       }
-
+```
 
