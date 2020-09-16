@@ -1,4 +1,4 @@
-**##  Aliona Muhatdinova**
+# Aliona Muhatdinova
 
 
 ### Contact Info:
