@@ -26,12 +26,14 @@ img {
     width: 130px;
     height: 130px;
     border-radius: 50%;
-    margin-left: 50px;
+    margin-left: 90px;
 }
 
 h1 {
     margin-left: 180px;
-    color: rgb(51, 43, 43)
+    color: rgb(51, 43, 43);
+    font-size: 40px;
+    font-weight: normal;
 }
 
 .main__wrapper {
@@ -40,14 +42,14 @@ h1 {
 
 h3 {
     display: flex;
-    width: 400px;
+    width: 40%;
     margin-right: 150px;
     justify-content: flex-end;
+    color: rgb(58, 32, 32);
 }
 
 li {
     margin: 10px 0px;
-
 }
 
 p {
@@ -60,5 +62,6 @@ p {
 }
 
 .text {
-    width: 600px;
+    width: 60%;
 }
+
