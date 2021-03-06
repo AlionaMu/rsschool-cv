@@ -6,6 +6,7 @@ body {
 
 .wrapper {
     max-width: 1020px;
+
 }
 
 .header {
@@ -14,7 +15,7 @@ body {
     width: 1020px;
 }
 
-.header__wrapper {
+.header__wrapper, .footer__wrapper {
     display: flex;
     align-items: center;
     background-color: darkolivegreen;
@@ -25,7 +26,7 @@ body {
     margin: 20px auto;
 }
 
-img {
+.my-photo {
     height: 160px;
     width: 120px;
     border-radius: 5%;
@@ -40,6 +41,10 @@ h1 {
 
 .main__wrapper {
     background-color: burlywood;
+}
+
+.deco {
+    padding-left: 20px;
 }
 
 h3 {
@@ -65,5 +70,10 @@ p {
 
 .text {
     width: 60%;
+}
+
+.rss-photo {
+    height: 50px;
+    width: 50px;
 }
 
