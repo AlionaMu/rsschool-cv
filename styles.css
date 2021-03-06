@@ -1,9 +1,8 @@
 body {
     max-width: 1020px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: auto;
+    margin: 0 auto;
 }
-
 
 .wrapper {
     max-width: 1020px;
@@ -15,25 +14,28 @@ body {
     width: 1020px;
 }
 
-
 .header__wrapper {
     display: flex;
     align-items: center;
     background-color: darkolivegreen;
 }
 
+.header__nav {
+    display: flex;
+    margin: 20px auto;
+}
+
 img {
-    width: 130px;
-    height: 130px;
-    border-radius: 50%;
-    margin-left: 90px;
+    height: 160px;
+    width: 120px;
+    border-radius: 5%;
 }
 
 h1 {
     margin-left: 180px;
     color: rgb(51, 43, 43);
     font-size: 40px;
-    font-weight: normal;
+    font-weight: 500;
 }
 
 .main__wrapper {
