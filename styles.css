@@ -5,8 +5,7 @@ body {
 }
 
 .wrapper {
-    max-width: 1020px;
-
+    max-width: 1020px
 }
 
 .header {
@@ -27,7 +26,7 @@ body {
 }
 
 .my-photo {
-    height: 160px;
+    height: 135px;
     width: 120px;
     border-radius: 5%;
 }
@@ -41,6 +40,7 @@ h1 {
 
 .main__wrapper {
     background-color: burlywood;
+    padding-right: 50px;
 }
 
 .deco {
@@ -49,7 +49,7 @@ h1 {
 
 h3 {
     display: flex;
-    width: 40%;
+    width: 35%;
     margin-right: 150px;
     justify-content: flex-end;
     color: rgb(58, 32, 32);
@@ -57,6 +57,16 @@ h3 {
 
 li {
     margin: 10px 0px;
+}
+
+.footer__li {
+    padding-right: 150px;
+    text-decoration: none;
+    color: rgb(51, 43, 43);
+}
+
+.footer__li:first-child {
+    list-style-type: none;
 }
 
 p {
@@ -69,11 +79,31 @@ p {
 }
 
 .text {
-    width: 60%;
+    width: 65%;
+}
+
+.footer__wrapper {
+    padding: 0 150px;
+}
+
+.footer__nav {
+    display: flex;
+
+}
+
+.footer__list {
+    display: flex;
+    align-items: center;
 }
 
 .rss-photo {
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 120px;
 }
 
+a:-webkit-any-link {
+    color: rgb(17, 16, 16);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+}
